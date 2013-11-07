@@ -43,7 +43,8 @@ For each user, the effectiveness of his group recommendations is evaluated base 
 The effectiveness of grouping strategies is influenced by the **used algorithm**. The accuracy of the grouping strategies will be compared for groups which are composed so that the group members have a **high similarity**.
 
 ## Questions && Ideas
--Investigate the proposed switching strategy to make the results better.
+- Investigate the proposed switching strategy to make the results better.
+
 
 ## Location
 ***D:\\Papers\\ACM RecSys.2012.Toon De Pessemier.pdf***
